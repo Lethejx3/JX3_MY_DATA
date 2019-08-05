@@ -1,6 +1,6 @@
 {
-  "name": "默认数据",
-  "author": "默认",
+  "name": "PVE测试使用数据",
+  "author": "遗忘者",
   "version": "20190728",
   "data_url": "./data.jx3dat",
   "about": "../README.md"
